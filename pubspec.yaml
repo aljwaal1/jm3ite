@@ -1,0 +1,16 @@
+name: jamiyati
+version: 1.0.0+1
+publish_to: 'none'
+description: تطبيق جمعيتي لإدارة الجمعيات الشهرية أوفلاين.
+
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.3.3
+  url_launcher: ^6.3.1
+
+flutter:
+  uses-material-design: true
