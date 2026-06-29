@@ -1,7 +1,7 @@
 name: jamiyati
-version: 1.0.0+1
+version: 4.0.0+4
 publish_to: 'none'
-description: تطبيق جمعيتي لإدارة الجمعيات الشهرية أوفلاين.
+description: mobile app.
 
 environment:
   sdk: '>=3.4.0 <4.0.0'
